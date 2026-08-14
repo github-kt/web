@@ -1,0 +1,20 @@
+{
+    "name": "Math Game",
+    "short_name": "Math",
+    "description": "Math Learning Game",
+
+    "display": "fullscreen",
+
+    "orientation": "portrait",
+
+    "background_color": "#ffffff",
+
+    "theme_color": "#4CAF50",
+
+    "start_url": "./index.html",
+
+    "scope": "./",
+
+    "icons": [
+    ]
+}
