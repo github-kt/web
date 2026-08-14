@@ -1,4 +1,4 @@
-const CACHE_NAME = "math-game-1786626555729";
+const CACHE_NAME = "math-game-1786713531059";
 
 const FILES = [
     "./",
@@ -6,10 +6,10 @@ const FILES = [
     "./assets/internal/import/09/0967b326a.1f618.json",
     "./assets/internal/index.d0832.js",
     "./assets/internal/native/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.cea68.png",
-    "./assets/main/config.3d66e.json",
+    "./assets/main/config.20ca3.json",
     "./assets/main/import/01/010fa1b53.26739.json",
     "./assets/main/import/0c/0c2379d02.1a978.json",
-    "./assets/main/index.3d66e.js",
+    "./assets/main/index.20ca3.js",
     "./assets/main/native/14/14cfca53-8928-485c-9250-272ddc427262.044cb.mp3",
     "./assets/main/native/4b/4bab67cb-18e6-4099-b840-355f0473f890.7050a.png",
     "./assets/main/native/59/59ff69cf-ef53-420d-aa93-024c8bab2b39.40e9b.png",
@@ -33,9 +33,9 @@ const FILES = [
     "./cocos2d-js-min.613cf.js",
     "./favicon.8de18.ico",
     "./index.html",
-    "./main.18bff.js",
+    "./main.df3d8.js",
     "./splash.85cfd.png",
-    "./src/settings.4856e.js",
+    "./src/settings.1df8e.js",
     "./style-desktop.81ede.css",
     "./style-mobile.25fc5.css"
 ];
